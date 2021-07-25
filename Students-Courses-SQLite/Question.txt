@@ -1,0 +1,30 @@
+1. Create a Database in SQLite and Call it Machine Learning.
+2. Create a Table 1 call it *Students* with the followng fields (id, Fname, Lname, Country, City, Continent, Course)
+3. Create a another table 2 name it Courses and make it to have the following fields (id, coursename)
+
+Below are the fields for table One:
+(1, Nicholas Okello, Kenya, Nairobi, Africa, Advanced Python)
+(3, Tim Kabugi, Kenya, Nairobi, Africa, Advanced Python)
+(3, John Weru, Kenya, Nairobi, Africa, Advanced Python)
+(4, Darik Olal, Kenya, Nairobi, Africa, Advanced Python)
+(5, Esther Wambui, Kenya, Nairobi, Africa, Machine Learning)
+(6, George Ndede, USA, Dallas, N. America, Artificial Intelligence)
+
+Below are the fields for table Two:
+(1, Advanced Python)
+(2, Machine Learning)
+(3, Introduction Data Science)
+(4, Artificial Intelligence)
+(5, Introduction Python)
+(6, Database Management)
+(7, Intro to Linux Administration)
+(8, Intro to AWS Foundations)
+(9, Python System Administration)
+
+Please JOIN the above two tables (Students and Course table) and display the results and share the code and display the screen result and upload to GitHub.
+Make sure that the records in the Tables do not repeat the IDs, the names or the courses displayed.
+
+
+B: Read and Display the contents of the Merge two tables (Show the code used to achieve that).
+C: Update the Tables and add two more courses (10, Introduction to Statistics) and (Change the (8, Intro to AWS Foundations) to (8, AWS Foundations)) and show the code used to achieve that.
+D: Delete from One Id #6 .
